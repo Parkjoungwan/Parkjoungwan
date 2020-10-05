@@ -6,10 +6,7 @@
 
 ### Online Judge 💻
 
-* BOJ: [Kinetic27](http://icpc.me/kinetic27)
-  * solvedac: [Kinetic27](https://solved.ac/profile/kinetic27)
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjsd007)](https://solved.ac/kjsd007)
 
 <!--
 ### Project ⚡
