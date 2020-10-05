@@ -2,19 +2,7 @@
 
 # Parkjoungwan&nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
-
-### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
-
-<p>
-  <em>
-    I am <b>noob</b> student developer. 👨‍💻 <br>
-    I like to <b>develop</b> many interesting things. 🎁 <br>
-    Seeking <b>software</b> that can be <b>useful</b>✨ and <b>convenient</b>🎉  for someone to use, and many things to develop in a fun way. 
-  </em>  
-</p>
-
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![Parkjoungwan's github stats](https://github-readme-stats.vercel.app/api?username=Parkjoungwan&show_icons=true)
 
 ### Online Judge 💻
 
